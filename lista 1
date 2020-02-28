@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="",1
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/globorj_bc15c774_7d531f5c30457b4c1719b26c61a5739fe64fceda/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",2
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/globorj_bc15c774_7d531f5c30457b4c1719b26c61a5739fe64fceda/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",3
+http://edge-aws.aovivo.club/hls/s:78.47.27.206/canaloff_12f0de3d_4efb2ff27bb746dca3a95ef3de28cf5436ebb405/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",4
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/hboplus1080p_39dfc9ff_e19c831a1f64dcafa0c745e5bdbcef92231a5779/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",5
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/history_b7eb6c68_13b6b0815331f26e88dd3f4025d1d98434737308/playlist.m3u8
